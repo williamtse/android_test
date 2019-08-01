@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_my">我的</string>
+    <string name="item_image">图片</string>
+</resources>
